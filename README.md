@@ -30,6 +30,7 @@ df.head()
 
 ```
 #1.Line Plot
+```
 x=[1,2,3,4,5] 
 y=[3,6,2,7,1] 
 sns.lineplot(x=x,y=y)
