@@ -50,7 +50,10 @@ sns.lineplot(x=x,y=y2)
 sns.lineplot(x=x,y=y3) 
 plt.title('Multi Line Plot')
 ```
+
 <img width="552" height="473" alt="image" src="https://github.com/user-attachments/assets/097d3b96-d454-4ec1-b91b-0fb304e19eea" />
+
+
 #TO VISUALIZE RELATIONSHIPS
 #1.Bar Chart
 ```
