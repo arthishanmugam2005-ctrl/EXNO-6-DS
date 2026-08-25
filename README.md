@@ -25,7 +25,9 @@ import matplotlib.pyplot as plt
 df=pd.read_csv("titanic_dataset.csv")
 df.head()
 ```
+
 <img width="998" height="182" alt="image" src="https://github.com/user-attachments/assets/a5debf58-b213-45c9-a619-d3303b4e52d7" />
+
 ```
 #1.Line Plot
 x=[1,2,3,4,5] 
@@ -33,7 +35,9 @@ y=[3,6,2,7,1]
 sns.lineplot(x=x,y=y)
 plt.title('Line Plot')
 ```
+
 <img width="571" height="476" alt="image" src="https://github.com/user-attachments/assets/3eca8ab1-0bc6-47ad-9294-06e5ac77d4ae" />
+
 
 #2.Multi Line Plot 
 ```
