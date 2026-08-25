@@ -26,8 +26,8 @@ df=pd.read_csv("titanic_dataset.csv")
 df.head()
 ```
 <img width="998" height="182" alt="image" src="https://github.com/user-attachments/assets/a5debf58-b213-45c9-a619-d3303b4e52d7" />
-#1.Line Plot
 ```
+#1.Line Plot
 x=[1,2,3,4,5] 
 y=[3,6,2,7,1] 
 sns.lineplot(x=x,y=y)
